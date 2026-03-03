@@ -11,3 +11,7 @@ def main():
 # No cambiar a partir de aqui
 if __name__ == "__main__":
     main()
+
+print('hola')
+git config --global user.name "JosefinaTiscornia"
+git config --global user.email "matiscornia@itba.edu.ar"
